@@ -256,12 +256,12 @@
 
 ## 9. References
 
-- [Cross-lingual Language Model Pretraining(2019)]([https://arxiv.org/abs/1901.07291](https://arxiv.org/abs/1901.07291))
-- [Dense Passage Retrieval for Open-Domain Question Answering(2020)]([https://arxiv.org/abs/2004.04906](https://arxiv.org/abs/2004.04906))
-- [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks(2020)]([https://arxiv.org/abs/2004.10964](https://arxiv.org/abs/2004.10964))
+- [Cross-lingual Language Model Pretraining(2019)](https://arxiv.org/abs/1901.07291)
+- [Dense Passage Retrieval for Open-Domain Question Answering(2020)](https://arxiv.org/abs/2004.04906)
+- [Don't Stop Pretraining: Adapt Language Models to Domains and Tasks(2020)](https://arxiv.org/abs/2004.10964)
 - [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/pdf/1910.10683.pdf)
-- [KLUE: Korean Language Understanding Evaluation(2021)]([https://arxiv.org/pdf/2105.09680.pdf](https://arxiv.org/pdf/2105.09680.pdf))
-- [KorQuAD1.0: Korean QA Dataset for Machine Reading Comprehension(2021)]([https://arxiv.org/abs/1909.07005](https://arxiv.org/abs/1909.07005))
-- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(2020)]([https://arxiv.org/pdf/2005.11401v4.pdf](https://arxiv.org/pdf/2005.11401v4.pdf))
-- [RoBERTa: A Robustly Optimized BERT Pretraining Approach(2019)]([https://arxiv.org/abs/1907.11692](https://arxiv.org/abs/1907.11692))
+- [KLUE: Korean Language Understanding Evaluation(2021)](https://arxiv.org/pdf/2105.09680.pdf)
+- [KorQuAD1.0: Korean QA Dataset for Machine Reading Comprehension(2021)](https://arxiv.org/abs/1909.07005)
+- [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks(2020)](https://arxiv.org/pdf/2005.11401v4.pdf)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach(2019)](https://arxiv.org/abs/1907.11692)
 - [Elastic Search](https://github.com/thejungwon/search-engine-tutorial)
